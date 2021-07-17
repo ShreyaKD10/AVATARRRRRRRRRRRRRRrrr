@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    padding-top: 800px;
+    text-align: center;
+    background-color: darksalmon;
+}
+
+
+#welcome {
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(lightblue, skyblue);
+    color: aliceblue;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    display: table;
+    opacity: 0.83;
+}
+#grid{
+    width:100%;
+    height:800px;
+    background-color: cornflowerblue;
+}
+img{
+    height:200px;
+    width:200px;
+}
+
+.links {
+
+    color: cornflowerblue !important;
+    display: inline;
+    padding-right: 25px;
+    padding-left: 33px;
+    font-size: 20px;
+}
+
+
+}
+
+#mycl{
+    background-color: darksalmon;
+}
+#mycl img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
